@@ -12,3 +12,9 @@
 <ul><h2>Objetos</h2>
     <li>O método Object.fromEntries() transforma uma lista de pares chave-valor em um objeto.</li>
 </ul>
+
+<ul><h2>Objeto Sets</h2>
+    <li>Coleção iteravel de elementos</li>
+    <li>Armazena somente valores únicos</li>
+    <li>Ao receber strings, transforma em um array de caracteres</li>
+</ul>
