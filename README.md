@@ -8,6 +8,7 @@
 
 <ul><h2>Função Math</h2>
     <li>Math.abs() seria igual a um módulo deixando o valor positivo</li>
+    <li>Math.trunc() não arredonda nem pra cima nem pra baixo</li>
 </ul>
 
 <ul><h2>Objetos</h2>
@@ -24,4 +25,8 @@
 <ul><h2>String</h2>
     <li>Métodos parecidos com o de arrays.</li>
     <li>Normalize lida com unicodes</li>
+</ul>
+
+<ul><h2>Arrays</h2>
+    <li>includes() verifica se contem o elemento passado como parametro retornando true ou false</li>
 </ul>
